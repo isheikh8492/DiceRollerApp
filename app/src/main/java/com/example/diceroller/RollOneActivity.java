@@ -48,6 +48,7 @@ public class RollOneActivity extends AppCompatActivity {
         resetButton.setOnClickListener(view -> {
             Intent resetIntent = new Intent(RollOneActivity.this, MainActivity.class);
             startActivity(resetIntent);
+            finish();
         });
     }
 }
