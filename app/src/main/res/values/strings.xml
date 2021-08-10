@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="roll1btn">Roll 1 Die</string>
+    <string name="roll2btn">Roll 2 Dice</string>
+    <string name="reset">Reset</string>
+    <string name="disclaimer">Created by:\nImaduddin Sheikh</string>
+    <string name="oneDieResult">1 Die Rolled!</string>
+    <string name="twoDieResult">2 Dice Rolled!</string>
+    <string name="dieDescription">The number on the die.</string>
+    <string name="dice1Description">The number on the first dice.</string>
+    <string name="dice2Description">The number on the second dice.</string>
+</resources>
